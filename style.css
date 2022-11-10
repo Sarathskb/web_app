@@ -869,9 +869,9 @@ form .row label {
     right: -650px;
     position: relative;
     top: -240px;
-    width: 50%;
+    width: 100%;
     background: #000;
-    width: 90%;
+    
     padding: 5px;
     border-radius: 25px;
 
@@ -1411,12 +1411,12 @@ footer p.p4{
         font-size: 19px;
     }
 }
-@media (max-width: 950px) {
+@media (max-width: 1050px) {
 
     .form23{
-        width: 90%;
+        width: 120%;
         top: 40px;
-        left: 1px;
+        left: -1px;
     }
        
        
@@ -1426,8 +1426,8 @@ footer p.p4{
     .form23 .nameformEntry {
         background-color: #ebebeb;
         color: rgb(10, 10, 10);
-        width:230px;
-        margin-left: 24px;
+        width:190px;
+        margin-left: -1px;
         padding: 10px;
         border-radius: 15px;
     }
@@ -1436,8 +1436,8 @@ footer p.p4{
     .form23 .emailformEntry{
         background-color: #ebebeb;
         height: 2em;
-        width:230px;
-        margin-left: 24px;
+        width:190px;
+        margin-left: -1px;
         padding: 17px;
         border-radius: 15px;
 
@@ -1448,7 +1448,7 @@ footer p.p4{
         background-color: #ebebeb;
         overflow: hidden;
         height: 10rem;
-        width:230px;
+        width:190px;
         border-radius: 15px;
         margin-left: 24px;
         padding: 10px;
