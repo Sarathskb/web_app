@@ -1461,7 +1461,7 @@ footer p.p4{
         background: rgb(93, 173, 187);
         color: #fff;
         border-radius: 35px;
-        left: -70px;
+        left: -20px;
         top:45px;
         position: relative;
         border: none;
@@ -1532,9 +1532,9 @@ footer p.p4{
         left: 5px;
     }
     
-    footer   p .p4{
+    footer  .p1 .p4{
         top: 34px;
-        left: 6px;
+        left: 19px;
         position: relative;
     }
     footer .socicon a{
