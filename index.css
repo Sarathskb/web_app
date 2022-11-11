@@ -1426,7 +1426,7 @@ footer p.p4{
     .form23 .nameformEntry {
         background-color:#88525269;
         color: #000;
-        width:260px;
+        width:200px;
         margin-left: -1px;
         padding: 10px;
         margin-top:35px;
@@ -1434,7 +1434,7 @@ footer p.p4{
     }
     .form23 .nameformEntry:hover{
         background: rgb(196, 191, 191);
-        width: 280px;
+        width: 230px;
         color: #000;
         font-family: 'Times New Roman', Times, serif;
         font-size: 17px;
