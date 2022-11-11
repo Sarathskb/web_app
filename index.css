@@ -1465,7 +1465,8 @@ footer p.p4{
     }
     
     .form23 .emailformEntry{
-        background-color: #865d5d59;
+        background-color: #a8707062;
+        color: #000;
         height: 2em;
         width:200px;
         margin-left: -1px;
@@ -1477,14 +1478,14 @@ footer p.p4{
       
     
     .form23 .messageformEntry {
-        background-color: #7c4e4ec5;
-        overflow: hidden;
+        background-color:#88525269;
+       
         height: 10rem;
         width:200px;
         border-radius: 15px;
         margin-left: -1px;
         margin-top: 15px;
-
+        
         padding: 10px;
         top:10px;
     }
