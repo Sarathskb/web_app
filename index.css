@@ -1353,6 +1353,13 @@ footer p.p4{
     .about .about-content .column{
         width: 100%;
     }
+    .about .about-content .column .text {
+        padding: 10px;
+    }
+    .about .about-content .column .cv{
+        margin-left: 20px;
+        margin-top:-10px;
+    }
     .about .about-content .left{
         display: flex;
         justify-content: center;
@@ -1413,7 +1420,7 @@ footer p.p4{
 }
 @media (max-width: 1050px) {
 
-    .form23{
+    .form23{background: rgba(5, 5, 5, 0.411);
         width: 103%;
         top: 40px;
         left: -20px;
@@ -1443,7 +1450,7 @@ footer p.p4{
 
     .form23 .emailformEntry:hover{
         background: rgb(196, 191, 191);
-        width: 360px;
+        width: 230px;
         color: #000;
         font-family: 'Times New Roman', Times, serif;
         font-size: 17px;
@@ -1451,7 +1458,7 @@ footer p.p4{
 
     .form23 .messageformEntry:hover{
         background: rgb(196, 191, 191);
-        width: 360px;
+        width: 230px;
         color: #000;
         font-family: 'Times New Roman', Times, serif;
         font-size: 17px;
@@ -1460,7 +1467,7 @@ footer p.p4{
     .form23 .emailformEntry{
         background-color: #865d5d59;
         height: 2em;
-        width:340px;
+        width:200px;
         margin-left: -1px;
         padding: 15px;
         margin-top:15px;
@@ -1470,10 +1477,10 @@ footer p.p4{
       
     
     .form23 .messageformEntry {
-        background-color: #88525269;
+        background-color: #7c4e4ec5;
         overflow: hidden;
         height: 10rem;
-        width:340px;
+        width:200px;
         border-radius: 15px;
         margin-left: -1px;
         margin-top: 15px;
